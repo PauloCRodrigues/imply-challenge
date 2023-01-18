@@ -43,6 +43,7 @@ body {
 }
 
 .modal-close {
+    cursor: pointer;
     display: block;
     background: #07a5b1;
     padding: 10px;
